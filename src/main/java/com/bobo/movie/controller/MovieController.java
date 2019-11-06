@@ -31,5 +31,5 @@ public class MovieController {
 		request.setAttribute("info", info);
 		return "list";
 	}
-	
+	//本地也改变了////
 }
