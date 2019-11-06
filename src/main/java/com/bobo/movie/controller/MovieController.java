@@ -32,4 +32,5 @@ public class MovieController {
 		return "list";
 	}
 	//本地也改变了////
+	//sssss
 }
